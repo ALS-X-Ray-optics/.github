@@ -4,12 +4,6 @@ X-Ray Optics group members.
 
 Link to the repository: <https://github.com/ALS-X-Ray-optics>
 
-Current members:
-
-* Kenneth Goldberg
-* [Antoine Islegen-Wojdyla](https://github.com/awojdyla)
-* [Walan Grizolli](https://github.com/wgrizolliALS)
-
 This repository is maintained by [Walan](https://github.com/wgrizolliALS) and [Antoine](https://github.com/awojdyla). Reach out to us if you need support.
 
 
