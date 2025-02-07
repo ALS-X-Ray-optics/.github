@@ -1,9 +1,8 @@
-# <img src="https://github.com/user-attachments/assets/8bb7bc09-08cf-4d24-96b1-13759639ee2a" width="30pt" text='ALS' >  ALS-X-Ray-optics
+## .github
 
-Repository for codes developed by the members of the ALS PSD Optics group.
+🔴 This repository is needed to generate a README file for the ***public*** front page of https://github.com/ALS-X-Ray-optics.
 
-Current members:
+To edit the front page, please edit [profile/README.md](profile/README.md)
 
-* Kenneth Goldberg
-* [Antoine Islegen-Wojdyla](https://github.com/awojdyla)
-* [Walan Grizolli](https://github.com/wgrizolliALS)
+  ⚠️ ***Note**: To edit the ***private (members only)*** front page, please go to the project https://github.com/ALS-X-Ray-optics/.github-private*
+
