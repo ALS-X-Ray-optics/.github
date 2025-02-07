@@ -1,4 +1,4 @@
-# ALS-X-Ray-optics
+# <img src="https://github.com/user-attachments/assets/8bb7bc09-08cf-4d24-96b1-13759639ee2a" width="30pt" text='ALS' >  ALS-X-Ray-optics
 Repository for codes developed by the [ALS](https://als.lbl.gov/science/photon-science-programs/)-[PSD](https://als.lbl.gov/science/photon-science-programs/)
 X-Ray Optics group members.
 
